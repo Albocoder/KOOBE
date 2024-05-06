@@ -1,3 +1,7 @@
+# IMPORTANT MESSAGE TO REPRO THIS CODE
+
+You must make sure you use the Ubuntu 18.04.6 LTS but <div color="red">**DO NOT DOWNLOAD UPDATES**</div> when you install the OS. Make sure you use [this](https://releases.ubuntu.com/18.04/ubuntu-18.04.6-desktop-amd64.iso) iso.
+
 # KOOBE
 Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities
 
